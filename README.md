@@ -52,7 +52,3 @@ Connect your wallet and start scanning abandoned liquidity in seconds.
 * Roadmap — What’s coming next
 * Changelog — Version history
 * Disclaimer — Legal notes and limitations
-
-***
-
-💡 _PoolRescue is developed by the Stakeridoo team — validator operators and Web3 data analysts focused on transparency and DeFi tooling._
