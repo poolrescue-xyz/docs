@@ -20,7 +20,19 @@ layout:
 
 ## Changelog
 
-Track the main releases and improvements of PoolRescue.
+Track the main releases and improvements of PoolRescue.\
+
+
+***
+
+#### **v1.1.1 — “Links & New Protocols”**
+
+📅 October 2025
+
+* Added links for Docs and X(Twitter)
+* Added support for:
+  * **Linea:** Secta
+  * **Arbitrum:** Auragi
 
 ***
 
