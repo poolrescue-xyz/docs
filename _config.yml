@@ -1,0 +1,30 @@
+site_name: PoolRescue Docs
+site_url: https://docs.poolrescue.xyz
+site_description: Official documentation for PoolRescue
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+  icon:
+    repo: fontawesome/brands/github
+repo_url: https://github.com/Stakeridoo/PoolRescue
+nav:
+  - Welcome: index.md
+  - Quickstart: quickstart.md
+  - Supported Chains & Protocols: supported.md
+  - Contracts & Security: contracts-security.md
+  - Technical Overview: technical.md
+  - Roadmap: roadmap.md
+  - Changelog: changelog.md
+  - Disclaimer: disclaimer.md
