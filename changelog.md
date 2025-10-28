@@ -33,6 +33,7 @@ Track the main releases and improvements of PoolRescue.\
 * Added support for:
   * **Linea:** Secta
   * **Arbitrum:** Auragi
+  * **Polgyon:** Pearl
 
 ***
 
