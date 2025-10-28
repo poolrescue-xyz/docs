@@ -8,3 +8,4 @@
 * [Roadmap](roadmap.md)
 * [Changelog](changelog.md)
 * [Disclaimer](disclaimer.md)
+* [Privacy Policy](privacy.md)
