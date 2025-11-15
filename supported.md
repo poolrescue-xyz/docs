@@ -51,4 +51,4 @@ The list is expanding continuously
 
 ***
 
-_Last updated: 26.October.2025_
+_Last updated: 16.November.2025_
