@@ -25,6 +25,17 @@ Track the main releases and improvements of PoolRescue.\
 
 ***
 
+#### **v1.2 — “Improvements & New Protocols”**
+
+📅 November 2025
+
+* Improved Calls and Search
+* Improved Wallet Connection
+* Removed Pools with 0 Supply / 0 Holders
+* Added support for 62 new Protocols
+
+***
+
 #### **v1.1.1 — “Links & New Protocols”**
 
 📅 October 2025
@@ -45,7 +56,7 @@ Track the main releases and improvements of PoolRescue.\
 * Unified contract version `PoolRescueV1` across all supported chains
 * Improved mobile-friendly UI layout
 * Added support for:
-  * **Ethereum:** Hope, Fraxswap, CCSwap
+  * **Ethereum:** Hope, CCSwap
   * **BSC:** CCSwap
   * **opBNB:** Thena
   * **Arbitrum:** Ramses
