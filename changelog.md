@@ -32,7 +32,7 @@ Track the main releases and improvements of PoolRescue.\
 * Improved Calls and Search
 * Improved Wallet Connection
 * Removed Pools with 0 Supply / 0 Holders
-* Added support for 62 new Protocols
+* Added support for 63 new Protocols
 
 ***
 
