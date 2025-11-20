@@ -47,7 +47,7 @@ The list is expanding continuously
 * We are currently reviewing several new protocols and chains for upcoming integration
 
 > 🚀 Want a specific protocol supported?\
-> Tag `@PoolRescueXYZ` on X with your request
+> Tag `@`[`PoolRescueXYZ` ](https://x.com/PoolRescue_xyz)on X with your request
 
 ***
 

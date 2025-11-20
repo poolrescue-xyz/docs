@@ -57,7 +57,7 @@ Click **Scan** — PoolRescue checks your wallet for:
 * Pending rewards
 
 The results table shows: \
-`Protocol | Pair | Token | Token | LP in Wallet or Gauge | Liquidity | Rewards`
+`Protocol | Pair | Token | Token | LP in Wallet or Staked | Liquidity | Rewards`
 
 ***
 
