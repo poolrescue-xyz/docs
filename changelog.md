@@ -20,8 +20,16 @@ layout:
 
 ## Changelog
 
-Track the main releases and improvements of PoolRescue.\
+Track the main releases and improvements of PoolRescue.<br>
 
+***
+
+#### **v1.3 — “Improvements & more Scroll Protocols”**
+
+📅 November 2025
+
+* Improved Search function
+* Added support for 13 more Protocols from Scroll
 
 ***
 
