@@ -24,6 +24,14 @@ Track the main releases and improvements of PoolRescue.<br>
 
 ***
 
+#### **v1.4 — “Feedbacks & Analytic Dashboard”**
+
+📅 December 2025
+
+* Based on user feedback, we added USD value display for positions.
+* After a user reported issues when scanning many pools, we added a recommendation to stay below 100 pools for optimal performance.
+* Added a direct link to the Dune Analytics Dashboard.
+
 #### **v1.3 — “Improvements & more Scroll Protocols”**
 
 📅 November 2025
