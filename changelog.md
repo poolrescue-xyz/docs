@@ -24,6 +24,27 @@ Track the main releases and improvements of PoolRescue.<br>
 
 ***
 
+#### **v1.4.1 — “Sharable Links & New Protocols”**
+
+📅 December 2025
+
+* Added direct shareable links for chains, protocols, and pools to make sharing and support easier.
+* Removed an unnecessary API call related to USD value calculation
+* Added support for the following protocols:
+  *   **BSC:** FstSwap, EmpireDex, KaoyaSwap, BabySwap, GIBXSwap, Titano Swych, PinkSwap, BearnFi
+
+      **Avalanche:** EmpireDex
+
+      **Ethereum:** EmpireDex, Unicly v2, Unicly v1
+
+      **Polygon:** EmpireDex
+
+      **Base:** BaseSwap
+
+      **opBNB:** LuigiSwap
+
+***
+
 #### **v1.4 — “Feedbacks & Analytic Dashboard”**
 
 📅 December 2025
@@ -37,7 +58,8 @@ Track the main releases and improvements of PoolRescue.<br>
 📅 November 2025
 
 * Improved Search function
-* Added support for 13 more Protocols from Scroll
+* Added support for the following Protocols:\
+  **Scroll:** Asteria, BallExchange, ChiliSwap, ChimeraDex, IvySwap, LuigiSwap, PapyrusSwap, PixelSwap, QuillSwap, Sanctuary, ScrollSwap, Scrollswap Finance, VoltageSwap
 
 ***
 
